@@ -1,5 +1,4 @@
 # Stateless Elicitation
-
 A Stateless MCP server demonstrating Stateless Elicitation through multi-round-trip requests (MRTR). The MCP endpoint is `/mcp` (for example, `http://localhost:8787/mcp` under `wrangler dev`).
 
 The `increase-counter` tool is write-once and stateless. One tool call progresses through two input rounds:
